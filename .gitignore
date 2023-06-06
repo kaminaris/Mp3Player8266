@@ -1,0 +1,7 @@
+.pio
+.idea
+CMakeListsPrivate.txt
+cmake-build-*/ 
+CMakeLists.txt
+cmake-build-nodemcuv3
+cmake-build-debug
